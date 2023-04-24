@@ -1,4 +1,4 @@
-# realproj
+# JPGDesize
 
 A new Flutter project.
 

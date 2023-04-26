@@ -1,6 +1,6 @@
 # JPGDesize
 
-A new Flutter project.
+A Flutter project Android application that can choose image from gallery or camera to desize the image and download to gallery or upload to firebase.
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# After clone the code you need to pub get all dependencies in pubspec.yaml
+# For firebase you can create your own firebase storage to upload image to firebase and replace google-services.json from your firebase storage setting to folder realproj/android/app/google-services.json
